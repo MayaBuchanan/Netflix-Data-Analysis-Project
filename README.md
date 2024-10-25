@@ -9,23 +9,25 @@ The project leverages Python libraries, including **pandas**, **scikit-learn**, 
 
 # Features and Analysis
 
-Data Cleaning and Preprocessing: Cleaned the Netflix dataset by removing null and unnecessary columns.
+    Data Cleaning and Preprocessing: Cleaned the Netflix dataset by removing null and unnecessary columns.
 
-Exploratory Data Analysis: Analyzed content release patterns over time; Visualized genre distribution and country-specific trends.
+    Exploratory Data Analysis: Analyzed content release patterns over time; Visualized genre distribution and country-specific trends.
 
-Sentiment Analysis on Descriptions: Utilized topic modeling with **Latent Dirichlet Allocation (LDA)** to extract themes from descriptions.
+    Sentiment Analysis on Descriptions: Utilized topic modeling with **Latent Dirichlet Allocation (LDA)** to extract themes from descriptions.
 
-Polynomial Regression: Modeled Netflix content growth over time to predict future releases.
+    Polynomial Regression: Modeled Netflix content growth over time to predict future releases.
 
-Machine Learning:
-   MLP Regressor: Predicted IMDb ratings based on content features.
-   MLP Classifier and Logistic Regression: Modeled popularity factors using **SVD** for dimensionality reduction and visualized decision boundaries.
+    Machine Learning:
+       MLP Regressor: Predicted IMDb ratings based on content features.
+       MLP Classifier and Logistic Regression: Modeled popularity factors using **SVD** for dimensionality reduction and visualized decision boundaries.
 
-  # Key Technologies and Libraries**
+# Key Technologies and Libraries**
 
-  Python: Data processing and analysis.
-  **pandas**, **numpy**, **scikit-learn**, **gensim**: Libraries for data manipulation, machine learning, and topic modeling.
-  **matplotlib**, **seaborn**: Visualization libraries for trend and pattern analysis.
+  Python: Data processing and analysis
+  
+  **pandas**, **numpy**, **scikit-learn**, **gensim**: Libraries for data manipulation, machine learning, and topic modeling
+  
+  **matplotlib**, **seaborn**: Visualization libraries for trend and pattern analysis
 
   # Results
 
@@ -33,3 +35,8 @@ Machine Learning:
   Insights into popular Netflix genres and trends by year and region.
   Predictions for future content releases using polynomial regression.
   Decision boundary plots to illustrate machine learning model effectiveness.
+
+
+# File Access
+
+Access the full project details in the PDF version here: https://github.com/MayaBuchanan/Netflix-Data-Analysis-Project/raw/main/Netflix%20Data%20Analysis%20Project.pdf
