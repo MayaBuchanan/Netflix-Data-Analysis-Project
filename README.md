@@ -21,7 +21,7 @@ The project leverages Python libraries, including **pandas**, **scikit-learn**, 
        MLP Regressor: Predicted IMDb ratings based on content features.
        MLP Classifier and Logistic Regression: Modeled popularity factors using **SVD** for dimensionality reduction and visualized decision boundaries.
 
-# Key Technologies and Libraries**
+# Key Technologies and Libraries
 
   Python: Data processing and analysis
   
@@ -29,7 +29,7 @@ The project leverages Python libraries, including **pandas**, **scikit-learn**, 
   
   **matplotlib**, **seaborn**: Visualization libraries for trend and pattern analysis
 
-  # Results
+# Results
 
   This project successfully provided:
   Insights into popular Netflix genres and trends by year and region.
